@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: Arial, Helvetica, sans-serif;
+  --color-blush: #fae9e9;
+  --color-porcelain: #ebf0f1;
+  --color-ink: #152c39;
+  --color-ocean: #00547c;
+  --color-ocean-hover: #003d5b;
+}
